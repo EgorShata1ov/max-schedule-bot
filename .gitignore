@@ -11,3 +11,6 @@ ngrok*
 cloudflared
 check_rag.py
 test_yandex*.py
+check_html.py
+debug.py
+dump_item.py
